@@ -1,2 +1,2 @@
 # Eddy_wvelDipole
-dipole (mono/quadru) structures of eddy WVEL with statistics/composite/diagnosis 
+dipole (mono/quadru) structure of eddy WVEL with statistics/composite/diagnosis 
